@@ -14,3 +14,5 @@ This project analyzes monthly Pizza Hut sales, visualizing KPIs like total reven
 
 ## 📸 Dashboard Preview
 ![Home page](Dashboard page.png)
+
+⚠️ Note: `.pbix` files cannot be viewed directly on GitHub. Download and open in Power BI Desktop to explore the report.
